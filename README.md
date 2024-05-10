@@ -1,6 +1,6 @@
 # Go Concurrency Concepts - Notes
 
-This concepts was taken after reading the book Learn Concurrent Programming with Go.
+These concepts were taken after reading the book Learn Concurrent Programming with Go.
 
 ## 1. Introduction
 
